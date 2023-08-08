@@ -83,6 +83,8 @@ Beyond the immediate matters to attend to following someones death.
 
 This may be a challenging time with an overwhelming number of things to deal with and feel surreal in the new reality.
 
+May be filled with mixed emotions and a lifetime of memories as you deal with matters and sorting out.
+
 ### Government  website & Tell Us Once
 Amongst the first things to be done is follow the government website guide https://www.gov.uk/when-someone-dies. 
 
