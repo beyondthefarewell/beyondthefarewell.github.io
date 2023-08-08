@@ -131,6 +131,7 @@ It is likely thee will be a large number of items to find new home for, eg. clot
 -   Charity items?
 -   Reuse?
 -   Recycle, up-cycle or reuse what's left.
+	- [Currys](https://www.currys.co.uk/) will recycle electrical and electronic items : https://www.currys.co.uk/services/delivery-installation/recycling.html
 -   Your suggestions?
 
 ### Hidden Items
