@@ -198,6 +198,13 @@ Aim at what you want. If you are older, avoid wasting time with fill in occupati
 
 ___
 
+## Resources
+Generative AI systems
+- [ChatGPT](https://chat.openai.com/)
+- [Google Bard](https://bard.google.com/)
+
+## Acknowledgements
+
 ## OpenAI - ChatGPT
 #### After someone has died what does obtaining probate mean?
 
