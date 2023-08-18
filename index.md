@@ -22,23 +22,27 @@ This means the matters that need to be dealt with in the months that follow afte
 
 ## 1. Before end of life
 
-However, to make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL would be difficult or too late:
+However, to make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL, End Of Life, would be difficult or too late:
 
 ### Financial
 -   Become a joint account holder on their bank account(s)
-	- But **administrate** only!  Else complications arise - you may be viewed as having additional savings and thus be above the threshold for [carers allowance](https://www.gov.uk/carers-allowance), other financial support or be liable for [capital gains tax](https://www.gov.uk/capital-gains-tax).
+	- But **administrate** only!  <br>Else complications arise - you may be viewed as having additional savings and thus be above the threshold for [carers allowance](https://www.gov.uk/carers-allowance), other financial support or be liable for [capital gains tax](https://www.gov.uk/capital-gains-tax).
 	- A benefit is the account(s) automatically transfer to the surviving holder.
 
 Remember [Power of Attorney](https://www.gov.uk/power-of-attorney) is valid only whilst the person is alive.
 
-### Medical donation, DNA
+### Medical donation
+Needs to be done weeks or months in advance of the loss of someone and may or may not need their permission and thus for them to have mental capacity to do so.
+
 -   Donating organs or body to medical research - find out early, arrange well in advance of death.
--   Brain bank - search the internet for one of your choice.
+-   [Brain bank](https://presearch.com/search?q=brain+bank) - search the internet, there may be several to choose from.
+
+### DNA Sample
 -   Obtain a DNA kit and sample for genealogy purposes – more than one service is better, but may be expensive.
 -   Keep DNA sample for prosperity or future analysis:
 	- Lock of hair?
 	- How to store to preserve and avoid further contamination?
-- More suggestions?
+-   Your suggestions?
 
 ### Usernames, passwords, passphrases, etc:
 * Online banking, utilities companies, council
