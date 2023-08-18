@@ -20,13 +20,31 @@ By Keith White 2023
 # Beyond the farewell
 This means the matters that need to be dealt with in the months that follow after someones death, beyond the immediate matters (eg. death certificate, funeral).
 
-## 0. Introduction
-background motivation to this guide
+The guide may also be helpful:
 
+- Prior to the decline in mental or physical capacity of the individual,
+- in the end of life (EOL) stage of the individual,
+- as a resource or of general interest providing some thoughts on preparing for eventuality.
+
+## Contents
+0. Introduction
+1. Before end of life
+2. Beyond end of life
+3. What do you want to do for the rest of your life ?
+- Resources
+- Acknowlegments
+
+## 0. Introduction
+There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support for **beyond the farewell** and hence the motivation for producing this guide.
+
+It is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. Consequently this experience also highlights matters for which it would be a great help to deal with before the end of life.
+
+The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything ❗ but it may be general enough to be a framework guide for most people anywhere.
+___
 
 ## 1. Before end of life
 
-However, to make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL, End Of Life, would be difficult or too late:
+To make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL, End Of Life, would be difficult or too late:
 
 ### Financial
 -   Become a joint account holder on their bank account(s)
