@@ -26,10 +26,10 @@ However, to make future matters easier these are some things to do, consider or 
 
 ### Financial
 -   Become a joint account holder on their bank account(s)
-	- But **administrate** only! Else complications arise - you may be viewed as having additional savings and thus be above the threshold for [https://www.gov.uk/carers-allowance](carers allowance), other financial support or be liable for [https://www.gov.uk/capital-gains-tax](capital gains tax).
+	- But **administrate** only!  Else complications arise - you may be viewed as having additional savings and thus be above the threshold for [carers allowance](https://www.gov.uk/carers-allowance), other financial support or be liable for [capital gains tax](https://www.gov.uk/capital-gains-tax).
 	- A benefit is the account(s) automatically transfer to the surviving holder.
 
-Remember [https://www.gov.uk/power-of-attorney](Power of Attorney) is valid only whilst the person is alive.
+Remember [Power of Attorney](https://www.gov.uk/power-of-attorney) is valid only whilst the person is alive.
 
 ### Medical donation, DNA
 -   Donating organs or body to medical research - find out early, arrange well in advance of death.
