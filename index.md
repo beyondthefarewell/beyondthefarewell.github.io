@@ -20,6 +20,10 @@ By Keith White 2023
 # Beyond the farewell
 This means the matters that need to be dealt with in the months that follow after someones death, beyond the immediate matters (eg. death certificate, funeral).
 
+## 0. Introduction
+background motivation to this guide
+
+
 ## 1. Before end of life
 
 However, to make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL, End Of Life, would be difficult or too late:
@@ -54,9 +58,9 @@ Needs to be done weeks or months in advance of the loss of someone and may or ma
 
 Make backups!
 
-### Distributed Ledger Technologies (DLTs)
+### Distributed Ledger Technologies (DLTs), Digital Assets
 
-This is a relatively new technology (2009). It is increasingly possible people may hold these assets in the form of:
+Distribulted Ledger Technologies are a relatively new technology (2009). It is increasingly possible people may hold these digital assets in the form of:
 
 * **Cryptocurrencies** eg. Ethereum, Cardano, Monero, Bitcoin and hundreds of others.
 * **NFTs** - Non-fungible tokens
@@ -203,11 +207,19 @@ Aim at what you want. If you are older, avoid wasting time with fill in occupati
 ___
 
 ## Resources
-Generative AI systems
+- [AgeUK](https://www.ageuk.org.uk/)
+- [Carers UK](https://www.carersuk.org/)
+
+Generative AI systems, emerged in 2023,
+here is an [example](./example-ChatGPT) of asking a question to a generative AI system.
 - [ChatGPT](https://chat.openai.com/)
 - [Google Bard](https://bard.google.com/)
 
 ## Acknowledgements
+- [Solihull Carers](https://solihullcarers.org/) for their support and fellow carer members.
+- [AgeUK](https://www.ageuk.org.uk/)
+
+___
 
 ## OpenAI - ChatGPT
 #### After someone has died what does obtaining probate mean?
