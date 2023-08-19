@@ -3,7 +3,7 @@
 
 [beyondthefarewell.github.io](https://beyondthefarewell.github.io/)
 
-**Beyond the Farewell** is a guide to the matters that need to be dealt with in the months that follow after someones death, beyond the immediate matters (eg. death certificate, funeral).
+**Beyond the Farewell** is a guide to the practical matters that need to be dealt with in the months that follow after someones death, beyond the immediate matters (eg. death certificate, funeral).
 
 The guide may also be helpful:
 
