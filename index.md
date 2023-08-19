@@ -1,20 +1,3 @@
-This file is in **markdown** format and best viewed in a markdown editor|viewer such as  [StackEdit](https://stackedit.io/app#) (https://stackedit.io/app#).
-
-The notes form a workshop content suggestion for Carers Trust Solihull based on my own experiences following the loss of my parents and given my circumstances: 
-> An only child with no family of my own, mild autism, now living alone in parents house and home, with no property of my own.
-
-I would expect the workshop especially suitable for carers:
-* after the death of those they cared for,
-* before the loss of mental|physical capacity of the cared for,
-* in the end of life stage of the cared for,
-* or of general interest providing some thoughts on preparing for eventuality.
-
-The notes are incomplete, because I am still going through the process myself, but are probably a continuous work on progress anyway, I may realise some things I've missed out later. Feel free to contact me regarding the notes.
-
-I would expect Carers Trust Solihull to add more sections, expand upon my notes, improve my wording and adapt in to a workshop presentable form.
-
-___
-By Keith White 2023
 &copy; Keith White
 
 # Beyond the farewell
