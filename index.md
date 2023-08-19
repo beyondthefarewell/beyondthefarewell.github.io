@@ -1,16 +1,16 @@
 &copy; Keith White
 
 # Beyond the farewell
-This means the matters that need to be dealt with in the months that follow after someones death, beyond the immediate matters (eg. death certificate, funeral).
+A guide to the practical matters that need to be dealt with in the many months that follow after someone's death, beyond the immediate matters (eg. death certificate, funeral).
 
 The guide may also be helpful:
 
 - Prior to the decline in mental or physical capacity of the individual,
 - in the end of life (EOL) stage of the individual,
-- as a resource or of general interest providing some thoughts on preparing for eventuality.
+- as a resource or of general interest, providing some thoughts and ideas on preparing for eventuality.
 
 ## Contents
-0. Introduction
+0. [Introduction](./index#0-Introduction)
 1. Before end of life
 2. Beyond end of life
 3. What do you want to do for the rest of your life ?
@@ -18,16 +18,16 @@ The guide may also be helpful:
 - Acknowlegments
 
 ## 0. Introduction
-There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support for **beyond the farewell** and hence the motivation for producing this guide.
+**Motivation:** There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support for **beyond the farewell** and hence the motivation for producing this guide.
 
 It is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. Consequently this experience also highlights matters for which it would be a great help to deal with before the end of life.
 
-The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything ❗ but it may be general enough to be a framework guide for most people anywhere.
+The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything❗, but it may be general enough to be a framework guide for most people anywhere.
 ___
 
 ## 1. Before end of life
 
-To make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL, End Of Life, would be difficult or too late:
+To make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL (End Of Life) would be difficult or too late:
 
 ### Financial
 -   Become a joint account holder on their bank account(s)
@@ -49,13 +49,14 @@ Needs to be done weeks or months in advance of the loss of someone and may or ma
 	- How to store to preserve and avoid further contamination?
 -   Your suggestions?
 
-### Usernames, passwords, passphrases, etc:
-* Online banking, utilities companies, council
-* Insurance companies
-* Their personal computer login details
+### Usernames, passwords, passphrases, encryption keys, etc:
+* Online banking, Insurance companies
+* Utilities companies, council
 * Social media, clubs, societies etc.
-* Email
-* Anything else?
+* Email accounts
+* Their personal computer login details
+* Encrypted media
+* Anything else ?
 
 Make backups!
 
@@ -67,14 +68,15 @@ Distribulted Ledger Technologies are a relatively new technology (2009). It is i
 * **NFTs** - Non-fungible tokens
 * **DeFi** - Decentralised finance
 
-They may be held in digital wallets or on exchanges. Access to them may require:
+They may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodus](https://www.exodus.com/)) or on exchanges (eg. [Binance](https://www.binance.com/)). Access to them may require:
 - Public+Private keys.
 - Wallet password or phrase.
 - Recovery phrase: a set of words, may be 12 or more.
 
 Make backups!
 
-Note the value may or may not be potentially significant: the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000, a significant increase.  
+Note the digital asset value may or may not be potentially significant:  
+For example the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and between 2028 and 2037 reach $1,000,000, a significant increase.  
 (**Ref.** the Bitcoin long term power law https://charts.bitbo.io/long-term-power-law/)
 
 ### Family History
