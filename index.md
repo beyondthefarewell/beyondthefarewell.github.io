@@ -49,7 +49,7 @@ Needs to be done weeks or months in advance of the loss of someone and may or ma
 	- How to store to preserve and avoid further contamination?
 -   Your suggestions?
 
-### Usernames, passwords, passphrases, encryption keys, etc:
+### Passing on the passwords, passphrases, encryption keys, usernames etc:
 * Online banking, Insurance companies
 * Utilities companies, council
 * Social media, clubs, societies etc.
@@ -58,7 +58,7 @@ Needs to be done weeks or months in advance of the loss of someone and may or ma
 * Encrypted media
 * Anything else ?
 
-Make backups!
+**Make backups !**
 
 ### Distributed Ledger Technologies (DLTs), Digital Assets
 
@@ -73,11 +73,10 @@ They may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodu
 - Wallet password or phrase.
 - Recovery phrase: a set of words, may be 12 or more.
 
-Make backups!
+**Make backups !**
 
 Note the digital asset value may or may not be potentially significant:  
-For example the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and between 2028 and 2037 reach $1,000,000, a significant increase.  
-(**Ref.** the Bitcoin long term power law https://charts.bitbo.io/long-term-power-law/)
+For example using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and between 2028 and 2037 reach $1,000,000, a significant increase.
 
 ### Family History
 
@@ -166,6 +165,11 @@ There may be important notes, paperwork, stash of cash, information and other it
 ### Digital data, computers, online accounts, etc.
  - Backup (make a copy) their computer data or storage media before making any changes to it.
  - ??
+
+#### Lost passwords, Data recovery
+If you are not technically or computer literate you may need help recovering data or account access etc.  
+A local [Linux User Group](https://lug.org.uk/lugs/) may have members able to help you.
+
 
 ### Investing inheritance - financial
 If sufficient finance is left over, consider putting the money to use to earn interest, eg.:
