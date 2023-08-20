@@ -10,7 +10,7 @@ The guide may also be helpful:
 - as a resource or of general interest, providing some thoughts and ideas on preparing for eventuality.
 
 ## Contents
-0. [Introduction](./index#0-Introduction)
+0. [Introduction](./index.md#0-Introduction)
 1. Before end of life
 2. Beyond end of life
 3. What do you want to do for the rest of your life ?
@@ -76,47 +76,44 @@ They may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodu
 **Make backups !**
 
 Note the digital asset value may or may not be potentially significant:  
-For example using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and between 2028 and 2037 reach $1,000,000, a significant increase.
+For example, using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide, the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and between 2028 and 2037 reach $1,000,000, a significant increase.
 
 ### Family History
 
  - A **timeline** history of their life.
-   * This Timeline Project software may help: https://thetimelineproj.sourceforge.net/, it's free and opensource.
+   * This [Timeline Project](https://thetimelineproj.sourceforge.net/) software may help, it's free and opensource.
 - **Family Tree**, who fits where, who was that relative you met in the past?
-  * Of course there are commercial services offering to help with this, but Gramps is free and opensource software you can install on your own computer to assist: https://gramps-project.org/blog/.
+  * Of course there are commercial services offering to help with this, but [Gramps](https://gramps-project.org/) is free and opensource software you can install on your own computer to assist.
 
 ----------
 
 ## 2. Beyond end of life
 
-Beyond the immediate matters to attend to following someones death.
+Matters to attend to beyond the immediate matters following someone's death.
 
-This may be a challenging time with an overwhelming number of things to deal with and feel surreal in the new reality.
-
-May be filled with mixed emotions and a lifetime of memories as you deal with matters and sorting out.
+This may be a challenging time with an overwhelming number of things to deal with and feel surreal in the new reality. It may be filled with mixed emotions and a lifetime of memories as you deal with matters and sorting out.
 
 ### Government  website & Tell Us Once
 Amongst the first things to be done is follow the government website guide https://www.gov.uk/when-someone-dies. 
 
-This includes the Tell Us Once service to notify multiple government departments and organisations, however consider carefully which to include. https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
+This includes the **Tell Us Once** service to notify multiple government departments and organisations, however consider carefully which to include. https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
 
-It may be wise to notify the DVLA separately as the vehicle tax may otherwise end and you would be unable to drive it on public roads.
+It may be wise to notify the [DVLA](https://dvla.gov.uk) separately as changing the details in the [Log Book](https://www.gov.uk/browse/driving/number-plate) will end the current vehicle tax and you would be unable to drive it on public roads. The LOG Book changes may take six weeks to process.
 
 #### Probate, Estate, Inheritance Tax and Property Records
 These are included in the government guide.
-(I have yet to do these)
-
 * Probate does not apply to everyone.
-* Takes up to 16 weeks to process.
-* Probate enables...?
-	-  needs to be done within one year of the death
+	- **Grant of probate** gives the executor or administrator the legal authority to manage the deceased person's assets.
+	- May take up to 16 weeks to process the application.
+	- Apply at your earliest convenience.
+	- Needs to be done within one year of the death.
 * Estimate value of the estate for any Inheritance Tax
     - Inheritance tax is paid on the amount over a threshold. That threshold depends upon individual circumstances.
+    - A property valuation by an estate agent may be required.
+* Update the property records.
 
 ### Support ends suddenly
 Support from care worker visits, health visits, council and government support, telephone support from various charities|agencies all come to an end quite suddenly. You no longer have contact with these support people you have got to know and it may leave you feeling isolated, cut off, alone and forgotten about.
-
-Thankfully you may continue with Carers Trust Solihull for 12 months after the death - much appreciated.
 
 #### Need someone to look after YOU
 Depends upon your circumstances, health and age, but if you are the only one left living in the house, who is going to look out for or look after you ?
@@ -124,13 +121,14 @@ Depends upon your circumstances, health and age, but if you are the only one lef
 ### Return support equipment
 For me this was fairly straight forward.
 
- - Contact Solihull Council Adult Care Services, arrange for collection of support equipment, mobility aids, wheel chair, safety rails. 
- - Contact Safe & Sound to return fall alarms.
+ - Contact the local council Adult Care Services, arrange for collection of support equipment, mobility aids, wheel chair, safety rails. 
+ - Contact fall alarm and other emergency alarm providers.
  - Institute for Deaf equipment return.
- - What else?
+ - What else ?
 
 ### Physical personal items
-These are part of the Estate. 
+These are part of the Estate.  
+
 It is likely thee will be a large number of items to find new home for, eg. clothes, electrical|electronic items, furniture, tools, plant pots, garden equipment, timber, hobby items, vehicles.
 
 -   Which to keep for prosperity, sentiment or reuse oneself?
@@ -218,7 +216,7 @@ ___
 - [Carers UK](https://www.carersuk.org/)
 
 Generative AI systems, emerged in 2023,
-here is an [example](./example-ChatGPT) of asking a question to a generative AI system.
+here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system.
 - [ChatGPT](https://chat.openai.com/)
 - [Google Bard](https://bard.google.com/)
 
