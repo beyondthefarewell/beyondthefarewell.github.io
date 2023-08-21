@@ -23,6 +23,8 @@ The guide may also be helpful:
 It is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. Consequently this experience also highlights matters for which it would be a great help to deal with before the end of life.
 
 The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything❗, but it may be general enough to be a framework guide for most people anywhere.
+
+The guide is not advice, but is intended to offer suggestions and stimulate thoughts and ideas for addressing issues based on your unique circumstances.
 ___
 
 ## 1. Before end of life
