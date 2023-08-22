@@ -51,6 +51,9 @@ Needs to be done weeks or months in advance of the loss of someone and may or ma
 -   Your suggestions?
 
 ### Passing on the passwords, passphrases, encryption keys, usernames etc:
+
+With the agreement of the account holder consider becoming a joint account holder or administrator on the following, it will make matters easier to deal with beyond EOL.
+
 * Online banking, Insurance companies
 * Utilities companies, council
 * Social media, clubs, societies etc.
@@ -60,6 +63,14 @@ Needs to be done weeks or months in advance of the loss of someone and may or ma
 * Anything else ?
 
 **Make backups !**
+
+Of course whilst a person is alive, well and able they would likely want to keep
+these details a secret, but how could they pass on the details to
+executors of a Will, family members or whoever in the event of EOL or loss of
+mental capacity or other loss of ability to use a computer? 
+
+Remember that Wills get published and made public on Grant of Probate, so the above information should not be passed on via a Will.
+
 
 ### Distributed Ledger Technologies (DLTs), Digital Assets
 
