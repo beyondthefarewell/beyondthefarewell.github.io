@@ -133,38 +133,39 @@ These are part of the Estate.
 
 It is likely thee will be a large number of items to find new home for, eg. clothes, electrical|electronic items, furniture, tools, plant pots, garden equipment, timber, hobby items, vehicles.
 
--   Which to keep for prosperity, sentiment or reuse oneself?
+-   Which to keep for prosperity, sentiment or reuse oneself ?
 -   Sell items (how?):
-	- Auctions?
-	- Internet?
-	- We Buy Any Clothes?
--   Charity items?
--   Reuse?
--   Recycle, up-cycle or reuse what's left.
+	- Auctions ?
+	- Internet ?
+	- [Cash fo Clothes](https://www.cashforclothes.org.uk/) ?
+-   Charity items ?
+	- some charities will collect from your location if you cannot take items to them.
+-   Recycle, up-cycle or reuse what's left ?
 	- [Currys](https://www.currys.co.uk/) will recycle electrical and electronic items : https://www.currys.co.uk/services/delivery-installation/recycling.html
--   Your suggestions?
+-   Your suggestions ?
 
 ### Hidden Items
 There may be important notes, paperwork, stash of cash, information and other items of importance hiding about the property:
 
--   Go through every page of every book and magazine, all the compartments of every bag, purse and wallet, all pockets in all clothing, look for hidden|secret pockets too.
--   Hidden compartments in the property, furniture, under the floorboards, attic|loft, garden shed, garage.
+-   Go through every page of every book and magazine, all the compartments of every bag, purse and wallet, all pockets in all clothing, look for hidden or secret pockets too.
+-   Hidden compartments in the property, furniture, under the floorboards, attic, loft, garden shed, garage.
+-   Where else ?
 
 ### Important Paperwork
--   Family wills, birth|marriage|death certificates
-	- Make copies and backups
-	- Make good quality scans to digitise and store on computer
+-   Family wills, birth|marriage|death certificates.
+	- Make copies and backups !
+	- Make good quality scans to digitise and store on computer.
+-   Education certificates.
 -   Property deeds, you may need to transfer property registration to the inheritors name.
-- Memoirs.
+-   Memoirs.
 
 ### Financial
  - Pensions: cancel private pensions, repay over payments.
- - Bank accounts: Keep a record of the amount in the accounts at the time of death.
- - Pay outstanding bills, debts, HMRC taxes, return over payments.
+ - Bank accounts: Keep a record of the amount in the accounts at the time of death, it may be needed for probate or other matters.
+ - Pay outstanding bills, debts, HMRC taxes, settle any differences in amounts.
 
 ### Digital data, computers, online accounts, etc.
  - Backup (make a copy) their computer data or storage media before making any changes to it.
- - ??
 
 #### Lost passwords, Data recovery
 If you are not technically or computer literate you may need help recovering data or account access etc.  
@@ -199,26 +200,25 @@ It could be a time of freedom and opportunity to pursue your life.
 
 ### Career
 
-- Study?
-- University?
-- Employment?
-- ??
+- Study ?
+- University ?
+- Employment ?
+- Your intention here ?
 
-Aim at what you want. If you are older, avoid wasting time with fill in occupations, use your precious years with ambition.
+Aim at what you want. If you are older, avoid wasting time with 'fill in occupations', use your precious years with ambition.
 
 ### Finance, Pension, Income?
 
  - State pensions and National Insurance years, see: [https://www.moneysavingexpert.com/savings/voluntary-national-insurance-contributions/](https://www.moneysavingexpert.com/savings/voluntary-national-insurance-contributions/)
- - ??
 
 ___
 
 ## Resources
+- The [source](https://github.com/beyondthefarewell/beyondthefarewell.github.io) of this guide on GitHub.
 - [AgeUK](https://www.ageuk.org.uk/)
 - [Carers UK](https://www.carersuk.org/)
 
-Generative AI systems, emerged in 2023,
-here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system.
+Generative AI systems, emerged in 2023, they may be used for interactive 'discussion' and can be helpful, however you should independently verify the responses and try asking the same question in a different way. Here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system about probate.
 - [ChatGPT](https://chat.openai.com/)
 - [Google Bard](https://bard.google.com/)
 
