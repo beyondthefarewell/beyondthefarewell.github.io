@@ -1,4 +1,3 @@
-&copy; Keith White
 
 # Beyond the farewell
 A guide to the practical matters that need to be dealt with in the many months that follow after someone's death, beyond the immediate matters (eg. death certificate, funeral).
@@ -214,7 +213,6 @@ Aim at what you want. If you are older, avoid wasting time with 'fill in occupat
 ___
 
 ## Resources
-- The [source](https://github.com/beyondthefarewell/beyondthefarewell.github.io) of this guide on GitHub.
 - [AgeUK](https://www.ageuk.org.uk/)
 - [Carers UK](https://www.carersuk.org/)
 
@@ -225,5 +223,8 @@ Generative AI systems, emerged in 2023, they may be used for interactive 'discus
 ## Acknowledgements
 - [Solihull Carers](https://solihullcarers.org/) for their support and fellow carer members.
 - [AgeUK](https://www.ageuk.org.uk/)
+
+___
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beyond the Farewell</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Keith White</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/beyondthefarewell/beyondthefarewell.github.io" rel="dct:source">https://github.com/beyondthefarewell/beyondthefarewell.github.io</a>.
 
 ___
