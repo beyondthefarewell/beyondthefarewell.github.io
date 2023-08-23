@@ -10,14 +10,14 @@ The guide may also be helpful:
 
 ## Contents
 0. [Introduction](./index.md#0-Introduction)
-1. Before end of life
-2. Beyond end of life
-3. What do you want to do for the rest of your life ?
-- Resources
-- Acknowlegments
+1. [Before end of life](./index.md#1-Before)
+2. [Beyond end of life](./index.md#2-Beyond)
+3. [What do you want to do for the rest of your life ?](.index.md#3-What)
+- [Resources](./index.md#Resources)
+- [Acknowlegments](./index.md#Acknowledgements)
 
 ## 0. Introduction
-**Motivation:** There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support for **beyond the farewell** and hence the motivation for producing this guide.
+**Motivation:** There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support **beyond the farewell** and hence the motivation for producing this guide.
 
 It is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. Consequently this experience also highlights matters for which it would be a great help to deal with before the end of life.
 
@@ -38,20 +38,19 @@ To make future matters easier these are some things to do, consider or arrange f
 Remember [Power of Attorney](https://www.gov.uk/power-of-attorney) is valid only whilst the person is alive.
 
 ### Medical donation
-Needs to be done weeks or months in advance of the loss of someone and may or may not need their permission and thus for them to have mental capacity to do so.
+Needs to be done weeks or months in advance of the loss of someone and may, or may not, need their permission if they have mental capacity to do so.
 
 -   Donating organs or body to medical research - find out early, arrange well in advance of death.
 -   [Brain bank](https://presearch.com/search?q=brain+bank) - search the internet, there may be several to choose from.
 
 ### DNA Sample
--   Obtain a DNA kit and sample for genealogy purposes – more than one service is better, but may be expensive.
--   Keep DNA sample for prosperity or future analysis:
+-   Obtain a DNA kit and provide a DNA sample for genealogy purposes – more than one service is better, but may be expensive.
+-   Keep a DNA sample for prosperity or future analysis:
 	- Lock of hair?
 	- How to store to preserve and avoid further contamination?
 -   Your suggestions?
 
 ### Passing on the passwords, passphrases, encryption keys, usernames etc:
-
 With the agreement of the account holder consider becoming a joint account holder or administrator on the following, it will make matters easier to deal with beyond EOL.
 
 * Online banking, Insurance companies
@@ -72,7 +71,7 @@ mental capacity or other loss of ability to use a computer?
 Remember that Wills get published and made public on Grant of Probate, so the above information should not be passed on via a Will.
 
 
-### Distributed Ledger Technologies (DLTs), Digital Assets
+### Digital Assets, Distributed Ledger Technologies (DLTs)
 
 Distribulted Ledger Technologies are a relatively new technology (2009). It is increasingly possible people may hold these digital assets in the form of:
 
@@ -97,7 +96,7 @@ For example, using the [Bitcoin long term power law](https://charts.bitbo.io/lon
 - **Family Tree**, who fits where, who was that relative you met in the past?
   * Of course there are commercial services offering to help with this, but [Gramps](https://gramps-project.org/) is free and opensource software you can install on your own computer to assist.
 
-----------
+___
 
 ## 2. Beyond end of life
 
@@ -230,6 +229,7 @@ ___
 Generative AI systems, emerged in 2023, they may be used for interactive 'discussion' and can be helpful, however you should independently verify the responses and try asking the same question in a different way. Here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system about probate.
 - [ChatGPT](https://chat.openai.com/)
 - [Google Bard](https://bard.google.com/)
+- [Bing Chat](https://chat.bing.com/)
 
 ## Acknowledgements
 - [Solihull Carers](https://solihullcarers.org/) for their support and fellow carer members.
