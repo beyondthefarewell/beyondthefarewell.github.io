@@ -1,7 +1,9 @@
 ## Generative AI tools
 
-Here is an example of asking [ChatGPT-3.5](https://chat.openai.com/), from  [Open AI](https://openai.com/), circa January 2023, for help understanding probate. The same question could also be asked to [Google BARD](https://bard.google.com/).  
-An account is need on each system to interact with them.
+Here is an example of asking [ChatGPT-3.5](https://chat.openai.com/), from  [Open AI](https://openai.com/), circa January 2023, for help understanding probate.
+
+The same question could also be asked to [Google BARD](https://bard.google.com/) or [Bing Chat](https://chat.bing.com).  
+An account is needed on ChatGPT or Bard to interact with them.
 
 ___
 ### Question
