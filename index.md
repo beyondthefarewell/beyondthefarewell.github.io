@@ -12,7 +12,7 @@ The guide may also be helpful:
 0. [Introduction](./index.md#0-Introduction)
 1. [Before end of life](./index.md#1-Before-end-of-life)
 2. [Beyond end of life](./index.md#2-Beyond-end-of-life)
-3. [What do you want to do for the rest of your life ?](.index.md#3-What-do-you-want-to-do-for-the-rest-of-your-life-?)
+3. [What do you want to do for the rest of your life ?](./index.md#3-What-do-you-want-to-do-for-the-rest-of-your-life-?)
 - [Resources](./index.md#Resources)
 - [Acknowlegments](./index.md#Acknowledgements)
 
