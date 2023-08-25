@@ -14,7 +14,7 @@ The guide may also be helpful:
 2. [Beyond end of life](./index.md#2-Beyond-end-of-life)
 3. [What do you want to do for the rest of your life ?](./index.md#3-What-do-you-want-to-do-for-the-rest-of-your-life-)
 - [Resources](./index.md#Resources)
-- [Acknowlegments](./index.md#Acknowledgements)
+- [Acknowledgements](./index.MD#Acknowledgements)
 
 ## 0. Introduction
 **Motivation:** There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support **beyond the farewell** and hence the motivation for producing this guide.
@@ -73,7 +73,7 @@ Remember that Wills get published and made public on Grant of Probate, so the ab
 
 ### Digital Assets, Distributed Ledger Technologies (DLTs)
 
-Distribulted Ledger Technologies are a relatively new technology (2009). It is increasingly possible people may hold these digital assets in the form of:
+Distributed Ledger Technologies are a relatively new technology (2009). It is increasingly possible people may hold these digital assets in the form of:
 
 * **Cryptocurrencies** eg. Ethereum, Cardano, Monero, Bitcoin and hundreds of others.
 * **NFTs** - Non-fungible tokens
