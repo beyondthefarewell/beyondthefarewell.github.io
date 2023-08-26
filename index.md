@@ -14,7 +14,7 @@ The guide may also be helpful:
 2. [Beyond end of life](./index.md#2-Beyond-end-of-life)
 3. [What do you want to do for the rest of your life ?](./index.md#3-What-do-you-want-to-do-for-the-rest-of-your-life-)
 - [Resources](./index.md#Resources)
-- [Acknowledgements](./index.MD#Acknowledgements)
+- [Acknowledgements](./index.md#Acknowledgements)
 
 ## 0. Introduction
 **Motivation:** There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support **beyond the farewell** and hence the motivation for producing this guide.
