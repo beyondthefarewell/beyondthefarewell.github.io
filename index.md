@@ -16,23 +16,27 @@ The guide may also be helpful:
 - [Resources](./index.md#Resources)
 - [Acknowledgements](./index.md#Acknowledgements)
 
+___
+
 ## 0. Introduction
 **Motivation:** There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support **beyond the farewell** and hence the motivation for producing this guide.
 
 It is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. Consequently this experience also highlights matters for which it would be a great help to deal with before the end of life.
 
-The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything❗, but it may be general enough to be a framework guide for most people anywhere.
+The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything! Although U.K. oriented it may be general enough to be a framework guide for most people anywhere.
 
 The guide is not advice, but is intended to offer suggestions and stimulate thoughts and ideas for addressing issues based on your unique circumstances.
+
+I hope it helps.
 ___
 
 ## 1. Before end of life
 
-To make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity. To do so after EOL (End Of Life) would be difficult or too late:
+To make future matters easier these are some things to do, consider or arrange for future access well in advance of either the death or loss of mental or physical capacity of someone. To do so after EOL (End Of Life) would be difficult or too late:
 
 ### Financial
 -   Become a joint account holder on their bank account(s)
-	- But **administrate** only!  <br>Else complications arise - you may be viewed as having additional savings and thus be above the threshold for [carers allowance](https://www.gov.uk/carers-allowance), other financial support or be liable for [capital gains tax](https://www.gov.uk/capital-gains-tax).
+	- But **administrate** only !  <br>Else complications arise - you may be viewed as having additional savings and thus be above the threshold for [carers allowance](https://www.gov.uk/carers-allowance), other financial support or be liable for [capital gains tax](https://www.gov.uk/capital-gains-tax).
 	- A benefit is the account(s) automatically transfer to the surviving holder.
 
 Remember [Power of Attorney](https://www.gov.uk/power-of-attorney) is valid only whilst the person is alive.
@@ -59,16 +63,22 @@ With the agreement of the account holder consider becoming a joint account holde
 * Email accounts
 * Their personal computer login details
 * Encrypted media
+* 'Cloud' data storage
 * Anything else ?
 
 **Make backups !**
 
 Of course whilst a person is alive, well and able they would likely want to keep
-these details a secret, but how could they pass on the details to
+access details a secret, but how could they pass on the details to
 executors of a Will, family members or whoever in the event of EOL or loss of
 mental capacity or other loss of ability to use a computer? 
 
-Remember that Wills get published and made public on Grant of Probate, so the above information should not be passed on via a Will.
+How you do this will be your joint preference and depend upon your level of technical ability. A couple of thoughts:
+
+* A simple option: write down the details and put in a sealed envelope.
+* The account holder to use a [password manager](https://presearch.com/search?q=define%3A%22password+manager%22) (eg. [KeePassXC](https://keepassxc.org/)) and pass on, by some agreed means, only the password manager access details.
+
+Remember that Wills get published and made public on Grant of Probate, so the above information should not be included in or passed on via a Will.
 
 
 ### Digital Assets, Distributed Ledger Technologies (DLTs)
@@ -124,7 +134,7 @@ These are included in the government guide.
 * Update the property records.
 
 ### Support ends suddenly
-Support from care worker visits, health visits, council and government support, telephone support from various charities|agencies all come to an end quite suddenly. You no longer have contact with these support people you have got to know and it may leave you feeling isolated, cut off, alone and forgotten about.
+Support from care worker visits, health visits, council and government support, telephone support from various charities and agencies all come to an end quite suddenly. You no longer have contact with these support people you have got to know and it may leave you feeling isolated, cut off, alone and forgotten about.
 
 #### Need someone to look after YOU
 Depends upon your circumstances, health and age, but if you are the only one left living in the house, who is going to look out for or look after you ?
@@ -140,7 +150,7 @@ For me this was fairly straight forward.
 ### Physical personal items
 These are part of the Estate.  
 
-It is likely thee will be a large number of items to find new home for, eg. clothes, electrical|electronic items, furniture, tools, plant pots, garden equipment, timber, hobby items, vehicles.
+It is likely thee will be a large number of items to find new home for, eg. clothes, electrical and electronic items, furniture, tools, plant pots, garden equipment, timber, hobby items, vehicles.
 
 -   Which to keep for prosperity, sentiment or reuse oneself ?
 -   Sell items (how?):
@@ -174,7 +184,7 @@ There may be important notes, paperwork, stash of cash, information and other it
  - Pay outstanding bills, debts, HMRC taxes, settle any differences in amounts.
 
 ### Digital data, computers, online accounts, etc.
- - Backup (make a copy) their computer data or storage media before making any changes to it.
+ - Backup (make a copy) their computer data or storage media **before** making any changes to it.
 
 #### Lost passwords, Data recovery
 If you are not technically or computer literate you may need help recovering data or account access etc.  
@@ -232,8 +242,9 @@ Generative AI systems, emerged in 2023, they may be used for interactive 'discus
 - [Bing Chat](https://chat.bing.com/)
 
 ## Acknowledgements
-- [Solihull Carers](https://solihullcarers.org/) for their support and fellow carer members.
-- [AgeUK](https://www.ageuk.org.uk/)
+- [Solihull Carers](https://solihullcarers.org/) and fellow carer members for their support.
+- [AgeUK](https://www.ageuk.org.uk/) for joint bank account advice and general support.
+- [Birmingham Linux User Group](https://www.birminghamlug.org.uk/), the website may be way out of date but the group is active. My thanks to them for a few technical suggestions.
 
 ___
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beyond the Farewell</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Keith White</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/beyondthefarewell/beyondthefarewell.github.io" rel="dct:source">https://github.com/beyondthefarewell/beyondthefarewell.github.io</a>.
