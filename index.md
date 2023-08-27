@@ -29,6 +29,7 @@ The guide will be forever incomplete and probably a continuous work on progress 
 The guide is not advice, but is intended to offer suggestions and stimulate thoughts and ideas for addressing issues based on your unique circumstances.
 
 I hope it helps.
+
 ___
 
 ## 1. Before end of life
