@@ -9,13 +9,13 @@ The guide may also be helpful:
 - as a resource or of general interest, providing some thoughts and ideas on preparing for eventuality.
 
 ## Contents
-0. [Introduction](./index.md#0-Introduction)
-1. [Before end of life](./index.md#1-Before-end-of-life)
-2. [Beyond end of life](./index.md#2-Beyond-end-of-life)
-3. [What do you want to do for the rest of your life ?](./index.md#3-What-do-you-want-to-do-for-the-rest-of-your-life-)
+0. [Introduction](./index.md#0-introduction)
+1. [Before end of life](./index.md#1-before-end-of-life)
+2. [Beyond end of life](./index.md#2-beyond-end-of-life)
+3. [What do you want to do for the rest of your life ?](./index.md#3-what-do-you-want-to-do-for-the-rest-of-your-life-)
 
-* [Resources](./index.md#Resources)
-* [Acknowledgements](./index.md#Acknowledgements)
+* [Resources](./index.md#resources)
+* [Acknowledgements](./index.md#acknowledgements)
 
 ___
 
@@ -54,7 +54,7 @@ Needs to be done weeks or months in advance of the loss of someone and may, or m
 -   Keep a DNA sample for prosperity or future analysis:
 	- Lock of hair?
 	- How to store to preserve and avoid further contamination?
--   Your suggestions?
+-   Your suggestions ?
 
 ### Passing on the passwords, passphrases, encryption keys, usernames etc:
 With the agreement of the account holder consider becoming a joint account holder or administrator on the following, it will make matters easier to deal with beyond EOL.
@@ -201,7 +201,7 @@ If sufficient finance is left over, consider putting the money to use to earn in
  - Your suggestions here.
 
     
-### Preserving their legacy ...how?
+### Preserving their legacy ...how ?
 Perhaps the one you cared for produced some items from their hobbies or work that are worth preserving. How will people know about their work and what they did unless it is made visible by some means. What are your options?
 
 Eg. amongst the many practical skills my father had, one of his hobbies was artwork painting, especially portraits and landscapes. How can I make his artwork publicly known, visible, preserved and permanent? 
@@ -228,7 +228,7 @@ It could be a time of freedom and opportunity to pursue your life.
 
 Aim at what you want. If you are older, avoid wasting time with 'fill in occupations', use your precious years with ambition.
 
-### Finance, Pension, Income?
+### Finance, Pension, Income ?
 
  - State pensions and National Insurance years, see: [https://www.moneysavingexpert.com/savings/voluntary-national-insurance-contributions/](https://www.moneysavingexpert.com/savings/voluntary-national-insurance-contributions/)
 
