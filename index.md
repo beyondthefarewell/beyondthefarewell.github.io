@@ -13,8 +13,9 @@ The guide may also be helpful:
 1. [Before end of life](./index.md#1-Before-end-of-life)
 2. [Beyond end of life](./index.md#2-Beyond-end-of-life)
 3. [What do you want to do for the rest of your life ?](./index.md#3-What-do-you-want-to-do-for-the-rest-of-your-life-)
-- [Resources](./index.md#Resources)
-- [Acknowledgements](./index.md#Acknowledgements)
+
+* [Resources](./index.md#Resources)
+* [Acknowledgements](./index.md#Acknowledgements)
 
 ___
 
