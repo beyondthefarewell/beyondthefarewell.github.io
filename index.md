@@ -158,7 +158,7 @@ It is likely thee will be a large number of items to find new home for, eg. clot
 -   Sell items (how?):
 	- Auctions ?
 	- Internet ?
-	- [Cash fo Clothes](https://www.cashforclothes.org.uk/) ?
+	- [Cash for Clothes](https://www.cashforclothes.org.uk/) ?
 -   Charity items ?
 	- some charities will collect from your location if you cannot take items to them.
 -   Recycle, up-cycle or reuse what's left ?
