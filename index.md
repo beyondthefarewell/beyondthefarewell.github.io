@@ -10,10 +10,10 @@ The guide may also be helpful:
 
 ## Contents
 <ol start=0>
-<li> <a href=./index.md#0-introduction>Introduction</a> </li>
-<li> <a href=./index.md#1-before-end-of-life>Before end of life</a> </li>
-<li> <a href=./index.md#2-beyond-end-of-life>Beyond end of life</a> </li>
-<li> <a href=./index.md#3-what-do-you-want-to-do-for-the-rest-of-your-life->What do you want to do for the rest of your life ?</a> </li>
+<li> <a href="./index.md#0-introduction">Introduction</a> </li>
+<li> <a href="./index.md#1-before-end-of-life">Before end of life</a> </li>
+<li> <a href="./index.md#2-beyond-end-of-life">Beyond end of life</a> </li>
+<li> <a href="./index.md#3-what-do-you-want-to-do-for-the-rest-of-your-life-">What do you want to do for the rest of your life ?</a> </li>
 </ol>
 
 * [Resources](./index.md#resources)
