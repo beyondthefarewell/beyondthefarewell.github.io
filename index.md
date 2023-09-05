@@ -1,23 +1,23 @@
 
 # Beyond the farewell
-A guide to the practical matters that need to be dealt with in the many months that follow after someone's death, beyond the immediate matters (eg. death certificate, funeral).
+A guide to the practical matters that need to be dealt with in the many months that follow after someone's death, beyond the immediate matters (eg. death certificate, funeral, pets).
 
 The guide may also be helpful:
 
 - Prior to the decline in mental or physical capacity of the individual,
 - in the end of life (EOL) stage of the individual,
-- as a resource or of general interest, providing some thoughts and ideas on preparing for eventuality.
+- as a resource or of general interest to stimulate some thoughts and spark ideas on preparing for eventuality.
 
 ## Contents
 <ol start=0>
-<li> <a href="./index.md#0-introduction">Introduction</a> </li>
-<li> <a href="./index.md#1-before-end-of-life">Before end of life</a> </li>
-<li> <a href="./index.md#2-beyond-end-of-life">Beyond end of life</a> </li>
-<li> <a href="./index.md#3-what-do-you-want-to-do-for-the-rest-of-your-life-">What do you want to do for the rest of your life ?</a> </li>
+<li> <a href="./#0-introduction">Introduction</a> </li>
+<li> <a href="./#1-before-end-of-life">Before end of life</a> </li>
+<li> <a href="./#2-beyond-end-of-life">Beyond end of life</a> </li>
+<li> <a href="./#3-what-do-you-want-to-do-for-the-rest-of-your-life-">What do you want to do for the rest of your life ?</a> </li>
 </ol>
 
-* [Resources](./index.md#resources)
-* [Acknowledgements](./index.md#acknowledgements)
+* [Resources](./#resources)
+* [Acknowledgements](./#acknowledgements)
 
 ___
 
@@ -109,6 +109,15 @@ For example, using the [Bitcoin long term power law](https://charts.bitbo.io/lon
    * This [Timeline Project](https://thetimelineproj.sourceforge.net/) software may help, it's free and opensource.
 - **Family Tree**, who fits where, who was that relative you met in the past?
   * Of course there are commercial services offering to help with this, but [Gramps](https://gramps-project.org/) is free and opensource software you can install on your own computer to assist.
+
+### Pets
+
+What should happen to pets after their owner dies ?  
+What are the owners wishes for them ?  
+Arrangements need to be made in advance.
+
+- The [RSPCA](https://www.rspca.org.uk/) offer a [Home for Life](https://homeforlife.org.uk/) service to cater for pets after the owner dies.
+- There is also [The Cinnamon Trust](https://cinnamon.org.uk/), The National Charity for older people, the terminally ill and their pets.
 
 ___
 
