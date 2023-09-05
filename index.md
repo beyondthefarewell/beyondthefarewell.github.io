@@ -9,10 +9,12 @@ The guide may also be helpful:
 - as a resource or of general interest, providing some thoughts and ideas on preparing for eventuality.
 
 ## Contents
-0. [Introduction](./index.md#0-introduction)
-1. [Before end of life](./index.md#1-before-end-of-life)
-2. [Beyond end of life](./index.md#2-beyond-end-of-life)
-3. [What do you want to do for the rest of your life ?](./index.md#3-what-do-you-want-to-do-for-the-rest-of-your-life-)
+<ol start=0>
+<li> <a href=./index.md#0-introduction>Introduction</a> </li>
+<li> <a href=./index.md#1-before-end-of-life>Before end of life</a> </li>
+<li> <a href=./index.md#2-beyond-end-of-life>Beyond end of life</a> </li>
+<li> <a href=./index.md#3-what-do-you-want-to-do-for-the-rest-of-your-life->What do you want to do for the rest of your life ?</a> </li>
+</ol>
 
 * [Resources](./index.md#resources)
 * [Acknowledgements](./index.md#acknowledgements)
@@ -99,7 +101,7 @@ They may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodu
 **Make backups !**
 
 Note the digital asset value may or may not be potentially significant:  
-For example, using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide, the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and between 2028 and 2037 reach $1,000,000, a significant increase.
+For example, using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide, the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and sometime between 2028 and 2037 reach $1,000,000, a significant increase.
 
 ### Family History
 
@@ -117,9 +119,10 @@ Matters to attend to beyond the immediate matters following someone's death.
 This may be a challenging time with an overwhelming number of things to deal with and feel surreal in the new reality. It may be filled with mixed emotions and a lifetime of memories as you deal with matters and sorting out.
 
 ### Government  website & Tell Us Once
-Amongst the first things to be done is follow the government website guide https://www.gov.uk/when-someone-dies. 
+Amongst the first things to be done is follow the government website guide **[What to do when someone dies](https://www.gov.uk/when-someone-dies)**:
+[https://www.gov.uk/when-someone-dies](https://www.gov.uk/when-someone-dies).
 
-This includes the **Tell Us Once** service to notify multiple government departments and organisations, however consider carefully which to include. https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
+This includes the **[Tell Us Once](https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once)** service to notify multiple government departments and organisations, however consider carefully which to include. [https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once](https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once)
 
 It may be wise to notify the [DVLA](https://dvla.gov.uk) separately as changing the details in the [Log Book](https://www.gov.uk/browse/driving/number-plate) will end the current vehicle tax and you would be unable to drive it on public roads. The LOG Book changes may take six weeks to process.
 
@@ -173,12 +176,13 @@ There may be important notes, paperwork, stash of cash, information and other it
 -   Where else ?
 
 ### Important Paperwork
--   Family wills, birth|marriage|death certificates.
+-   Family wills, birth, marriage, death certificates.
 	- Make copies and backups !
 	- Make good quality scans to digitise and store on computer.
 -   Education certificates.
 -   Property deeds, you may need to transfer property registration to the inheritors name.
 -   Memoirs.
+-   Anything else ?
 
 ### Financial
  - Pensions: cancel private pensions, repay over payments.
@@ -196,7 +200,7 @@ A local [Linux User Group](https://lug.org.uk/lugs/) may have members able to he
 ### Investing inheritance - financial
 If sufficient finance is left over, consider putting the money to use to earn interest, eg.:
 
- - National Savings and Investments, https://www.nsandi.com/,  Bonds, ISAs etc.
+ - [National Savings and Investments](https://www.nsandi.com/): Bonds, ISAs etc.
  - DeFi, decentralised finance, a relatively new option, do your own research.
  - Your suggestions here.
 
