@@ -119,6 +119,13 @@ Arrangements need to be made in advance.
 - The [RSPCA](https://www.rspca.org.uk/) offer a [Home for Life](https://homeforlife.org.uk/) service to cater for pets after the owner dies.
 - There is also [The Cinnamon Trust](https://cinnamon.org.uk/), The National Charity for older people, the terminally ill and their pets.
 
+### Where is the paperwork ?
+
+See [Important Paperwork](./#important-paperwork) in the next section. Knowing this can ease the process of finding the paperwork later.
+
+- If any, where and with whom is the Will lodged ?
+- Have any **wishes** been expressed separate to the Will ? Are these written down somewhere ?
+
 ___
 
 ## 2. Beyond end of life
@@ -210,27 +217,27 @@ A local [Linux User Group](https://lug.org.uk/lugs/) may have members able to he
 If sufficient finance is left over, consider putting the money to use to earn interest, eg.:
 
  - [National Savings and Investments](https://www.nsandi.com/): Bonds, ISAs etc.
- - DeFi, decentralised finance, a relatively new option, do your own research.
+ - [DeFi](https://presearch.com/search?q=defi+decentralized+finance), decentralised finance, a relatively new option, do your own research.
  - Your suggestions here.
 
     
 ### Preserving their legacy ...how ?
-Perhaps the one you cared for produced some items from their hobbies or work that are worth preserving. How will people know about their work and what they did unless it is made visible by some means. What are your options?
+Perhaps the deceased produced some creative work from their hobbies or work that are worth preserving. How will people know about their work and what they did unless it is made visible by some means. What are your options?
 
-Eg. amongst the many practical skills my father had, one of his hobbies was artwork painting, especially portraits and landscapes. How can I make his artwork publicly known, visible, preserved and permanent? 
+Eg. amongst the many practical skills my father had, one of his hobbies was artwork painting, especially portraits and landscapes. How can I make his artwork publicly known, visible, preserved and permanent?:
 
 * Virtual art gallery?
 * Exhibition, but may only be temporary.
-*  **NFTs :** It is possible to digitise artwork and make it publicly available via non-fungible token platforms.
-* Consider copyright, attribution and licence issues.
+*  **NFTs :** It is possible to digitise artwork and make it publicly available via [Non-Fungible Token](https://presearch.com/search?q=NFTs+non-fungible+tokens) platforms.
+* Consider copyright, attribution and licence issues (eg. [Creative Commons](https://creativecommons.org/)).
  * Your suggestions here.
 
 ____
 
 ## 3. What do you want to do for the rest of your life ?
 
-Now you have the above sorted, what about you?
-It could be a time of freedom and opportunity to pursue your life.
+Now you have the above sorted, what about you?  
+It could be a time of freedom and opportunity to pursue your life!
 
 ### Career
 
@@ -251,7 +258,7 @@ ___
 - [AgeUK](https://www.ageuk.org.uk/)
 - [Carers UK](https://www.carersuk.org/)
 
-Generative AI systems, emerged in 2023, they may be used for interactive 'discussion' and can be helpful, however you should independently verify the responses and try asking the same question in a different way. Here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system about probate.
+**Generative AI** systems, emerged in 2023, they may be used for interactive 'discussion' and can be helpful, however you should independently verify the responses and try asking the same question in a different way and on different platforms. Here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system about probate.
 - [ChatGPT](https://chat.openai.com/)
 - [Google Bard](https://bard.google.com/)
 - [Bing Chat](https://chat.bing.com/)
