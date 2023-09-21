@@ -1,4 +1,4 @@
-
+﻿
 # Beyond the farewell
 A guide to the practical matters that need to be dealt with in the many months that follow after someone's death, beyond the immediate matters (eg. death certificate, funeral, pets).
 
@@ -26,7 +26,9 @@ ___
 
 It is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. Consequently this experience also highlights matters for which it would be a great help to deal with before the end of life.
 
-The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything! Although U.K. oriented it may be general enough to be a framework guide for most people anywhere.
+Although U.K. oriented it may be general enough to be a framework guide for most people anywhere.
+
+The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything! 
 
 The guide is not advice, but is intended to offer suggestions and stimulate thoughts and ideas for addressing issues based on your unique circumstances.
 
@@ -98,6 +100,8 @@ They may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodu
 - Wallet password or phrase.
 - Recovery phrase: a set of words, may be 12 or more.
 
+If those are lost the 'money' is lost with no means of recovery, so...
+
 **Make backups !**
 
 Note the digital asset value may or may not be potentially significant:  
@@ -159,6 +163,12 @@ Support from care worker visits, health visits, council and government support, 
 
 #### Need someone to look after YOU
 Depends upon your circumstances, health and age, but if you are the only one left living in the house, who is going to look out for or look after you ?
+
+### The letter box
+Letters arriving in the post can be a help in identifying overlooked matters to deal with or of organisations to notify of the death.
+
+However there may also be unwanted or unneeded promotional advertising mail, a possible way to reduce or stop this was to write ***Deceased - Return to sender*** on the envelope and return it in the post box.
+
 
 ### Return support equipment
 For me this was fairly straight forward.
