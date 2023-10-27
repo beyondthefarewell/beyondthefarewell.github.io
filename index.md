@@ -162,7 +162,7 @@ These are included in the government guide.
 Support from care worker visits, health visits, council and government support, telephone support from various charities and agencies all come to an end quite suddenly. You no longer have contact with these support people you have got to know and it may leave you feeling isolated, cut off, alone and forgotten about.
 
 #### Need someone to look after YOU
-Depends upon your circumstances, health and age, but if you are the only one left living in the house, who is going to look out for or look after you ?
+Depends upon your circumstances, health and age, but if you are the only one left living in the house, who is going to look out for you or look after you ?
 
 ### The letter box
 Letters arriving in the post can be a help in identifying overlooked matters to deal with or of organisations to notify of the death.
@@ -191,7 +191,7 @@ It is likely thee will be a large number of items to find new home for, eg. clot
 -   Charity items ?
 	- some charities will collect from your location if you cannot take items to them.
 -   Recycle, up-cycle or reuse what's left ?
-	- [Currys](https://www.currys.co.uk/) will recycle electrical and electronic items : https://www.currys.co.uk/services/delivery-installation/recycling.html
+	- [Currys](https://www.currys.co.uk/) will [recycle electrical and electronic items](https://www.currys.co.uk/services/delivery-installation/recycling.html).
 -   Your suggestions ?
 
 ### Hidden Items
@@ -214,6 +214,7 @@ There may be important notes, paperwork, stash of cash, information and other it
  - Pensions: cancel private pensions, repay over payments.
  - Bank accounts: Keep a record of the amount in the accounts at the time of death, it may be needed for probate or other matters.
  - Pay outstanding bills, debts, HMRC taxes, settle any differences in amounts.
+ - Any others?
 
 ### Digital data, computers, online accounts, etc.
  - Backup (make a copy) their computer data or storage media **before** making any changes to it.
