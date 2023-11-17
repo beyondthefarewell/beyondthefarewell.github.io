@@ -70,7 +70,7 @@ Here are a couple of suggestions that may help:
 - **Family Tree**, who fits where, who was that relative you met in the past?
   * Of course there are commercial services offering to help with this, but [Gramps](https://gramps-project.org/) is free and opensource software you can install on your own computer to assist.
 
-> **Emerging technologies** in the field of artificial intelligence (AI) may present us with other opportunities to preserve the life of someone, perhaps in the form of a digital model of them that we can talk with and interact with. While this is possible now but requires are high level of technical expertise that few possess, however tools for this may be developed and become more accessible and user-friendly quite rapidly.
+> **Emerging technologies** in the field of artificial intelligence (AI) may present us with other opportunities to preserve the life of someone, perhaps in the form of a digital model of them that we can talk with and interact with. While this is possible now it requires a high level of technical expertise that few possess, however tools for this may be developed rapidly and become more accessible and user-friendly.
 
 ### Passing on the passwords, passphrases, encryption keys, usernames etc:
 With the agreement of the account holder consider becoming a joint account holder or administrator on the following, it will make matters easier to deal with beyond EOL.
