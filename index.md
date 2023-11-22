@@ -60,14 +60,14 @@ Needs to be done weeks or months in advance of the loss of someone and may, or m
 	- How to store to preserve and avoid further contamination?
 -   Your suggestions ?
 
-### Family History
-Whilst a person is still alive is the last opportunity to find out more about their life and perhaps document it. And who were those long lost relatives you met in the past, where do they fit in the family tree? 
+### Life Story, Family History, Family Tree
+Whilst a person is still alive it is the last opportunity to find out more about their life, their life story, family history and perhaps document it and fill in gaps in the family tree... Who were those people you met in the past? Were they long lost relatives? Where do they fit in the family history and family tree? What's the story behind that family heirloom?
 
-Here are a couple of suggestions that may help:
+Here are some suggestions and tools that may help:
 
 - A **timeline** history of their life.
    * This [Timeline Project](https://thetimelineproj.sourceforge.net/) software may help, it's free and opensource software.
-- **Family Tree**, who fits where, who was that relative you met in the past?
+- Update or create the **Family Tree**.
   * Of course there are commercial services offering to help with this, but [Gramps](https://gramps-project.org/) is free and opensource software you can install on your own computer to assist.
 
 > **Emerging technologies** in the field of artificial intelligence (AI) may present us with other opportunities to preserve the life of someone, perhaps in the form of a digital model of them that we can talk with and interact with. While this is possible now it requires a high level of technical expertise that few possess, however tools for this may be developed rapidly and become more accessible and user-friendly.
