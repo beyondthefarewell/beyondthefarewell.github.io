@@ -183,6 +183,11 @@ For me this was fairly straight forward.
  - Institute for Deaf equipment return.
  - What else ?
 
+### Medicines
+Unused, part-used or old medicines should be taken to a pharmacy for disposal.
+
+**Do not** dispose of medicines in the waste bin, wash down the sink or flush down a toilet, as that would contaminate the environment, harm wildlife, plants, animals, food and humans!
+
 ### Physical personal items
 These are part of the Estate.  
 
