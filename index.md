@@ -183,6 +183,19 @@ For me this was fairly straight forward.
  - Institute for Deaf equipment return.
  - What else ?
 
+### Financial
+ - Pensions: cancel private pensions, repay over payments.
+ - Bank accounts: Keep a record of the amount in the accounts at the time of death, it may be needed for probate or other matters.
+ - Pay outstanding bills, debts, HMRC taxes, settle any differences in amounts.
+ - Any others?
+
+### Investing inheritance - financial
+If sufficient finance is left over, consider putting the money to use to earn interest, eg.:
+
+ - [National Savings and Investments](https://www.nsandi.com/): Bonds, ISAs etc.
+ - [DeFi](https://presearch.com/search?q=defi+decentralized+finance), decentralised finance, a relatively new option, do your own research.
+ - Your suggestions here.
+
 ### Medicines
 Unused, part-used or old medicines should be taken to a pharmacy for disposal.
 
@@ -221,12 +234,6 @@ There may be important notes, paperwork, stash of cash, information and other it
 -   Memoirs.
 -   Anything else ?
 
-### Financial
- - Pensions: cancel private pensions, repay over payments.
- - Bank accounts: Keep a record of the amount in the accounts at the time of death, it may be needed for probate or other matters.
- - Pay outstanding bills, debts, HMRC taxes, settle any differences in amounts.
- - Any others?
-
 ### Digital data, computers, online accounts, etc.
  - Backup (make a copy) their computer data or storage media **before** making any changes to it.
 
@@ -234,15 +241,6 @@ There may be important notes, paperwork, stash of cash, information and other it
 If you are not technically or computer literate you may need help recovering data or account access etc.  
 A local [Linux User Group](https://lug.org.uk/lugs/) may have members able to help you.
 
-
-### Investing inheritance - financial
-If sufficient finance is left over, consider putting the money to use to earn interest, eg.:
-
- - [National Savings and Investments](https://www.nsandi.com/): Bonds, ISAs etc.
- - [DeFi](https://presearch.com/search?q=defi+decentralized+finance), decentralised finance, a relatively new option, do your own research.
- - Your suggestions here.
-
-    
 ### Preserving their legacy ...how ?
 Perhaps the deceased produced some creative work from their hobbies or work that are worth preserving. How will people know about their work and what they did unless it is made visible by some means. What are your options?
 
