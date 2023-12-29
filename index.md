@@ -242,20 +242,26 @@ If you are not technically or computer literate you may need help recovering dat
 A local [Linux User Group](https://lug.org.uk/lugs/) may have members able to help you.
 
 ### Photographs
-*[ToDo: Improve and complete this section]*
-Whilst nearly all the world is digital photographs now the **film and print** variety remain. These may contain precious memories and be a record of a persons life, family and history. 
+
+Whilst nearly all the world has turned to digital photography now, **film and print** photographs remain. These may contain precious memories and be a record of a person's life, family and history. 
 
 Be careful with their handling, preservation and storage, hence... 
 
-#### Protect the source material
-They may be the only photographs in existence with no other copies. The source print and film photographic material will degrade over time, to slow that process care should be taken with its preservation and storage. https://www.preservationequipment.com/
+#### Protect the source material !
 
-#### Some tools, notes and ideas to help:
+These may be the only photographs in existence with no other copies. 
 
- - A flat bed scanner is perhaps the best option for digitising photographic film (slides, transparencies, negatives) and prints, as this will likely produce the best colour reproduction and least distortion.
- - [Gimp](https://www.gimp.org/) is an excellent free and open source image processing software
- - [Hugin](https://hugin.sourceforge.io/) a versatile tool for combining multiple images to produce panoramas, mosaics or stitch multiple images together to produce a higher resolution image. For example if a picture is too big to fit on a flat bed scanner, it may require multiple scans to capture all of it.
- - Getting more advanced, colourise (colorize) black & white images. GIMP is able to do this but a search of the internet reveals many more [options](), including [DeOldify](https://github.com/jantic/DeOldify) using AI.
+The source print and film photographic material will degrade over time, to slow that process care should be taken with its preservation and storage, for example, store photographs between acid-free paper as normal paper may be acidic and accelerate degradation.
+
+The [Preservation Equipment Ltd.](https://www.preservationequipment.com/) organisation has materials to help and their website may also inspire some other ideas in you.
+
+#### Some notes, tools and ideas to help:
+
+ - A flat-bed scanner is perhaps the best option for digitising photographic film (slides, transparencies, negatives) and prints, as this will likely produce the best colour reproduction and least distortion.
+ - [Hugin](https://hugin.sourceforge.io/) is a versatile tool for combining multiple images to produce panoramas, mosaics or stitch or stack multiple images together to produce a higher resolution image. For example, if a picture is too big to fit on a flat-bed scanner, it may require multiple scans in sections to capture all of it.
+ - [GIMP](https://www.gimp.org/) is an excellent free and open source image processing software.
+ - Getting more advanced, colourise (colorize) black & white images. GIMP is able to do this but a search of the internet reveals many more [options](https://presearch.com/search?q=colourise+old+photographs%2C+open+source), including [DeOldify](https://github.com/jantic/DeOldify) that uses AI (Artificial Intelligence).
+ - Label photographs, who, what, where, when, why, for your own reference and future generations.
 
 
 ### Preserving their legacy ...how ?
