@@ -72,7 +72,7 @@ Here are some suggestions and tools that may help:
 
 > **Emerging technologies** in the field of artificial intelligence (AI) may present us with other opportunities to preserve the life of someone, perhaps in the form of a digital model of them that we can talk with and interact with. While this is possible now it requires a high level of technical expertise that few possess, however tools for this may be developed rapidly and become more accessible and user-friendly.
 
-### Passing on the passwords, passphrases, encryption keys, usernames etc:
+### Passing on the passwords, passphrases, passkeys, encryption keys, key pairs, brain keys, usernames etc:
 With the agreement of the account holder consider becoming a joint account holder or administrator on the following, it will make matters easier to deal with beyond EOL.
 
 * Online banking, Insurance companies
@@ -240,6 +240,23 @@ There may be important notes, paperwork, stash of cash, information and other it
 #### Lost passwords, Data recovery
 If you are not technically or computer literate you may need help recovering data or account access etc.  
 A local [Linux User Group](https://lug.org.uk/lugs/) may have members able to help you.
+
+### Photographs
+*[ToDo: Improve and complete this section]*
+Whilst nearly all the world is digital photographs now the **film and print** variety remain. These may contain precious memories and be a record of a persons life, family and history. 
+
+Be careful with their handling, preservation and storage, hence... 
+
+#### Protect the source material
+They may be the only photographs in existence with no other copies. The source print and film photographic material will degrade over time, to slow that process care should be taken with its preservation and storage. https://www.preservationequipment.com/
+
+#### Some tools, notes and ideas to help:
+
+ - A flat bed scanner is perhaps the best option for digitising photographic film (slides, transparencies, negatives) and prints, as this will likely produce the best colour reproduction and least distortion.
+ - [Gimp](https://www.gimp.org/) is an excellent free and open source image processing software
+ - [Hugin](https://hugin.sourceforge.io/) a versatile tool for combining multiple images to produce panoramas, mosaics or stitch multiple images together to produce a higher resolution image. For example if a picture is too big to fit on a flat bed scanner, it may require multiple scans to capture all of it.
+ - Getting more advanced, colourise (colorize) black & white images. GIMP is able to do this but a search of the internet reveals many more [options](), including [DeOldify](https://github.com/jantic/DeOldify) using AI.
+
 
 ### Preserving their legacy ...how ?
 Perhaps the deceased produced some creative work from their hobbies or work that are worth preserving. How will people know about their work and what they did unless it is made visible by some means. What are your options?
