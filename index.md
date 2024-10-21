@@ -1,12 +1,14 @@
 ﻿
 # Beyond the farewell
-A guide to the practical matters that need to be dealt with in the many months that follow after someone's death, beyond the immediate matters (eg. death certificate, funeral, pets).
+
+Originally intended as a guide to the practical matters that need to be dealt with in the many months that follow someone's death, beyond the immediate concerns (e.g., death certificate, funeral, pets), the aspects discussed are also applicable to ourselves at any age and any stage of life.
 
 The guide may also be helpful:
 
-- Prior to the decline in mental or physical capacity of the individual,
-- in the end of life (EOL) stage of the individual,
-- as a resource or of general interest to stimulate some thoughts and spark ideas on preparing for eventuality.
+- For ourselves at any time from now to our distant future.
+- Prior to any decline in mental or physical capacity of the individual.
+- During the end-of-life (EOL) stage of the individual.
+- As a resource or of general interest to stimulate thought and spark ideas on preparing for eventualities.
 
 ## Contents
 <ol start=0>
