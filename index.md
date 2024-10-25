@@ -121,7 +121,7 @@ If those are lost the 'money' is lost with no means of recovery, so...
 > Note the digital asset value may or may not be potentially significant:  
 > For example, using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide, the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and sometime between 2028 and 2037 reach US$1,000,000, a significant increase.
 
-### Pets
+### Pets 🐕 🐈 🐦 🐝 🦕 🐍 🐇 🦖
 
 What should happen to pets after their owner dies ?  
 What are the owners wishes for them ?  
