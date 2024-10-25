@@ -123,8 +123,8 @@ If those are lost the 'money' is lost with no means of recovery, so...
 
 ### Pets 🐕 🐈 🐦 🐝 🦕 🐍 🐇 🦖
 
-What should happen to pets after their owner dies ?  
-What are the owners wishes for them ?  
+What should happen to pets after their owner loses capacity or dies ?  
+What are the owners wishes for the pets future ?  
 Arrangements need to be made in advance.
 
 - The [RSPCA](https://www.rspca.org.uk/) offer a [Home for Life](https://homeforlife.org.uk/) service to cater for pets after the owner dies.
