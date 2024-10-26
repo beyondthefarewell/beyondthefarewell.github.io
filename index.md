@@ -172,11 +172,10 @@ Support from care worker visits, health visits, council and government support, 
 #### Need someone to look after YOU
 Depends upon your circumstances, health and age, but if you are the only one left living in the house, who is going to look out for you or look after you ?
 
-### The letter box
-Letters arriving in the post can be a help in identifying overlooked matters to deal with or of organisations to notify of the death.
+### The letter box or post box 📨 📬
+Letters or mail arriving in the post can be a help in identifying overlooked matters to deal with or of organisations to notify of the death.
 
-However there may also be unwanted or unneeded promotional advertising mail, a possible way to reduce or stop this was to write ***Deceased - Return to sender*** on the envelope and return it in the post box.
-
+However, there may also be unwanted or unneeded promotional advertising mail, a possible way to reduce or stop this is to write ***Deceased - Return to sender*** on the envelope and return it in the post box.
 
 ### Return support equipment
 For me this was fairly straight forward.
