@@ -72,7 +72,7 @@ Here are some suggestions and tools that may help:
 - Update or create the **Family Tree**.
   * Of course there are commercial services offering to help with this, but [Gramps](https://gramps-project.org/) is free and opensource software you can install on your own computer to assist.
 
-> **Emerging technologies** in the field of artificial intelligence (AI) may present us with other opportunities to preserve the life of someone, perhaps in the form of a digital model of them that we can talk with and interact with. While this is possible now it requires a high level of technical expertise that few possess, however tools for this may be developed rapidly and become more accessible and user-friendly.
+> ✳️ **Emerging technologies** in the field of artificial intelligence (AI) may present us with other opportunities to preserve the life of someone, perhaps in the form of a digital model of them that we can talk with and interact with. While this is possible now it requires a high level of technical expertise that few possess, however tools for this may be developed rapidly and become more accessible and user-friendly.
 
 ### Passing on the passwords, passphrases, passkeys, encryption keys, key pairs, brain keys, usernames etc:
 With the agreement of the account holder consider becoming a joint account holder or administrator on the following, it will make matters easier to deal with beyond EOL.
@@ -118,8 +118,7 @@ If those are lost the 'money' is lost with no means of recovery, so...
 
 **Make backups !**
 
-> [!NOTE] 
-> The digital asset value may or may not be potentially significant:  
+> ✳️ The digital asset value may or may not be potentially significant:  
 > For example, using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide, the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and sometime between 2028 and 2037 reach US$1,000,000, a significant increase.
 
 ### Pets 🐕 🐈 🐦 🐝 🦕 🐍 🐇 🦖
