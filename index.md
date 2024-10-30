@@ -24,11 +24,12 @@ The guide may also be helpful:
 ___
 
 ## 0. Introduction
-**Motivation:** There is plenty of support and information around for people who may be involved in the support or care of an individual who may be infirm, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support **beyond the farewell** and hence the motivation for producing this guide.
+
+**Motivation:** There is plenty of support and information available for people who may be involved in the support or care of an individual with infirmity, long term sickness, have a disability or be elderly or in the latter time of their life. However beyond the loss of that individual there is little information or support **beyond the farewell** and hence the motivation for producing this guide.
 
 It is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. Consequently this experience also highlights matters for which it would be a great help to deal with before the end of life.
 
-Although U.K. oriented it may be general enough to be a framework guide for most people anywhere.
+The guide is intended to stimulate thought on matters that are relevant to anyone at any age or stage of life, not just those approaching the end of life. Although <abbr title="United Kingdom">U.K.</abbr> oriented it may be general enough to be a framework guide for most people anywhere.
 
 The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything! 
 
