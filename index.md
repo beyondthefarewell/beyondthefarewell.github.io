@@ -104,23 +104,23 @@ Remember that Wills get published and made public on Grant of Probate, so the ab
 
 ### Digital Assets, Distributed Ledger Technologies (DLTs)
 
-Distributed Ledger Technologies are a relatively new technology (2009). It is increasingly possible people may hold these digital assets in the form of:
+Distributed Ledger Technologies are a relatively new technology, gaining prominence with the creation of Bitcoin in 2009. It is increasingly likely people may hold these digital assets in the form of:
 
-* **Cryptocurrencies** eg. Ethereum, Cardano, Monero, Bitcoin and hundreds of others.
-* **NFTs** - Non-fungible tokens
-* **DeFi** - Decentralised finance
+* **Cryptocurrencies** e.g. Bitcoin, Ethereum, Cardano, Monero and hundreds of others.
+* **NFTs** - Non-fungible tokens.
+* **DeFi** - Decentralised finance.
 
-They may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodus](https://www.exodus.com/)) or on exchanges (eg. [Binance](https://www.binance.com/)). Access to them may require:
-- Public+Private keys.
+These assets may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodus](https://www.exodus.com/)) or on exchanges (eg. [Binance](https://www.binance.com/)). Access to them may require:
+- Public plus Private keys.
 - Wallet password or phrase.
 - Recovery phrase: a set of words, may be 12 or more.
 
-If those are lost the 'money' is lost with no means of recovery, so...
+If those are lost the asset *(money!)* is lost with no means of recovery, so...
 
 **Make backups !**
 
 > ✳️ The digital asset value may or may not be potentially significant:  
-> For example, using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide, the approximate minimum price for a whole Bitcoin in Nov. 2022, was US$15,500 (~£14,000). In 2028 that minimum is expected to be US$100,000 and sometime between 2028 and 2037 reach US$1,000,000, a significant increase.
+> For example, using the [Bitcoin long term power law](https://charts.bitbo.io/long-term-power-law/) as a guide, the approximate minimum price for a whole Bitcoin in November 2022, was US$15,500 (~£14,000). In 2028 that minimum is projected to be US$100,000 and sometime between 2028 and 2037 potentially reach US$1,000,000, a significant increase.
 
 ### Pets 🐕 🐈 🐦 🐝 🦕 🐍 🐇 🦖
 
