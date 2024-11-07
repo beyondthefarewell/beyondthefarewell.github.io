@@ -305,10 +305,25 @@ ___
 - [AgeUK](https://www.ageuk.org.uk/)
 - [Carers UK](https://www.carersuk.org/)
 
-**Generative AI** systems, emerged in 2023, they may be used for interactive 'discussion' and can be helpful, however you should independently verify the responses and try asking the same question in a different way and on different platforms. Here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system about probate.
+### Generative AI Tools
+
+May assist you with matters you are dealing with related to this guide. They  can be helpful and are easy to use despite their technical-sounding names such as Large Language Models ([LLMs](large%20language%20models)) or Generative Pre-trained Transformer ([GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)). Simply enter a question, known as a **prompt**, and press `enter`.
+
+**Generative AI** systems, emerged in 2023, they may be used for interactive 'discussion', however you should independently verify the responses and try asking the same question in a different way and on different platforms or language models. 
+
+Here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system about probate.
+
+These are some LLMs you may like to try:
+
 - [ChatGPT](https://chat.openai.com/)
-- [Google Bard](https://bard.google.com/)
-- [Bing Chat](https://chat.bing.com/)
+- [Google Gemini](https://gemini.google.com/app)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
+- [perplexity.ai](https://www.perplexity.ai/)
+- [venice.ai](https://venice.ai/chat) privacy oriented, keeps your discussions on your device.
+- [lmarena.ai](https://lmarena.ai/)  easy to use but has a more complicated looking interface allowing you to compare various models and optionally vote on your preference.
+
+If you would like to learn more about interacting with language models refer to [promptingguide.ai](https://www.promptingguide.ai/).
+
 
 ## Acknowledgements
 - [Solihull Carers](https://solihullcarers.org/) and fellow carer members for their support.
