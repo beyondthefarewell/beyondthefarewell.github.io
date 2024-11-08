@@ -268,6 +268,7 @@ The [Preservation Equipment Ltd.](https://www.preservationequipment.com/) organi
  - [Hugin](https://hugin.sourceforge.io/) is a versatile tool for combining multiple images to produce panoramas, mosaics or stitch or stack multiple images together to produce a higher resolution image. For example, if a picture is too big to fit on a flat-bed scanner, it may require multiple scans in sections to capture all of it.
  - [GIMP](https://www.gimp.org/) is an excellent free and open source image processing software.
  - Getting more advanced, colourise (colorize) black & white images. GIMP is able to do this but a search of the internet reveals many more [options](https://presearch.com/search?q=colourise+old+photographs%2C+open+source), including [DeOldify](https://github.com/jantic/DeOldify) that uses AI (Artificial Intelligence).
+ - [Upscayl](https://upscayl.org/) free and open source software to enhance the resolution of images using AI algorithms.
  - Label photographs, who, what, where, when, why, for your own reference and future generations.
 
 
