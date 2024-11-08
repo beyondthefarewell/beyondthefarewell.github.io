@@ -113,7 +113,8 @@ Distributed Ledger Technologies are a relatively new technology, gaining promine
 * **DeFi** - Decentralised finance.
 
 These assets may be held in digital wallets (eg. [Bisq](https://bisq.network/) or [Exodus](https://www.exodus.com/)) or on exchanges (eg. [Binance](https://www.binance.com/)). Access to them may require:
-- Public plus Private keys.
+
+- Public plus Private keys 🔑🔑
 - Wallet password or phrase.
 - Recovery phrase: a set of words, may be 12 or more.
 
