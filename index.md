@@ -31,7 +31,9 @@ It is based on my own experiences in Britain (United Kingdom) following the even
 
 Although <abbr title="United Kingdom">U.K.</abbr> oriented it may be general enough to be a framework guide for most people anywhere globally.
 
-The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything! 
+The guide will be forever incomplete and probably a continuous work on progress anyway because everyone's circumstances are different and I cannot think of everything! Hence...
+
+> ✳️ **Feedback welcome:** with suggestions for improvement, additions or corrections, go to [Issues](https://github.com/beyondthefarewell/beyondthefarewell.github.io/issues) on the project website and either click on an existing issue or open a `New issue`.
 
 The guide is not advice, but intended to offer suggestions and stimulate thoughts and ideas on matters and issues that are relevant to your life or anyone at any age or stage of life, not just those approaching an end of life. 
 
