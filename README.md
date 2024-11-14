@@ -10,7 +10,7 @@ The guide may also be helpful:
 - For ourselves at any time, from now to our distant future.
 - Prior to the decline of an individual’s mental or physical capacity.
 - During the end-of-life (EOL) stage of an individual.
-- As a resource or of general interest, stimulating some thoughts and ideas on preparing for life's eventualities.
+- As a resource or of general interest to stimulate thought and spark ideas on preparing for life's eventualities.
 
 The guide is based on my own experiences in Britain (United Kingdom) following the eventual and inevitable loss of both my elderly parents and my interaction with other 'carers'. 
 
