@@ -281,7 +281,34 @@ Eg. amongst the many practical skills my father had, one of his hobbies was artw
 * Exhibition, but may only be temporary.
 *  **NFTs :** It is possible to digitise artwork and make it publicly available via [Non-Fungible Token](https://presearch.com/search?q=NFTs+non-fungible+tokens) platforms.
 * Consider copyright, attribution and licence issues (eg. [Creative Commons](https://creativecommons.org/)).
- * Your suggestions here.
+* Your suggestions here.
+
+### Cognitive Bias
+
+Be aware of cognitive biases, they can lead to irrational or inaccurate judgements and affect you throughout the processes covered by this guide. 
+
+We have cognitive biases throughout our lives, often not consciously aware of them. They are numerous, take a look at this  [chart](https://commons.wikimedia.org/wiki/File:Cognitive_Bias_Codex_-_180%2B_biases,_designed_by_John_Manoogian_III_(jm3).jpg#/media/File:Cognitive_Bias_Codex_-_180+_biases,_designed_by_John_Manoogian_III_(jm3).jpg)  on the Wikipedia  [Cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias)  page. Everyone's circumstances are different, so in the context of this guide let me give you some examples of my experience from my own circumstances:
+
+> ✳️ It was a mighty personal challenge dealing with the contents of my late parents house, about 20% of if it was either of sentimental value or useful, so that was okay, but it was the 80% I did not need was where I faced my challenges and cognitive biases. Although I gave a lot to local charity shops I was left with feelings of :
+> 
+> -   _“This is my parents stuff I’m giving away!”_
+> -   _“Will people respect this the way my parents did”_
+> -   _“I’m giving all this away and getting nothing for it”_
+> -   _“I’m giving away fond memories”_
+> -   etc.
+> 
+> So I asked one of the large language models available to us now (see [Resources](./#resources) below) to help me identify what cognitive biases I may be facing and experiencing, given my above feelings and circumstances. It suggested quite a few:
+> 
+> 1.  **Endowment effect:**  You’re placing a higher value on items simply because they belonged to your parents, even if they’re not objectively valuable or useful to you.
+> 2.  **Loss aversion:**  The fear of losing something valuable by giving away your parents’ possessions is stronger than the potential gain of freeing up space and time.
+> 3.  **Sunk cost fallacy:**  You’re considering the time and effort your parents invested in acquiring and maintaining these items, making it harder to let go.
+> 4.  **Emotional attachment bias:**  Your sentimental connection to the items is overriding rational decision-making about their practical value or necessity.
+> 5.  **Status quo bias:**  The tendency to prefer things to stay the same is making it difficult for you to make changes to your living situation.
+> 6.  **Anchoring bias:**  Your initial perception of the items’ value (based on your parents’ respect for them) is influencing your current assessment of their worth.
+> 7.  **Opportunity cost neglect:**  You’re focusing on the perceived loss of giving items away rather than considering the benefits of freeing up your time and space.
+> 8.  **Analysis paralysis:**  The overwhelming nature of the task and the multiple options available (sell, donate, keep) may be causing decision fatigue.
+
+You may face some of these and other cognitive biases yourself, being aware of them can help towards dealing with your own circumstances and matters.
 
 ____
 
@@ -311,7 +338,7 @@ ___
 
 ### Generative AI Tools
 
-May assist you with matters you are dealing with related to this guide. They  can be helpful and are easy to use despite their technical-sounding names such as Large Language Models ([LLMs](large%20language%20models)) or Generative Pre-trained Transformer ([GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)). Simply enter a question, known as a **prompt**, and press `enter`.
+May assist you with matters you are dealing with related to this guide. They can be helpful and are easy to use despite their technical-sounding names such as Large Language Models ([LLMs](large%20language%20models)) or Generative Pre-trained Transformer ([GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)). Simply enter a question, known as a **prompt**, and press `enter`.
 
 **Generative AI** systems, emerged in 2023, they may be used for interactive 'discussion', however you should independently verify the responses and try asking the same question in a different way and on different platforms or language models. 
 
