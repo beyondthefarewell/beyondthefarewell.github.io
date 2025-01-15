@@ -289,7 +289,7 @@ Be aware of cognitive biases, they can lead to irrational or inaccurate judgemen
 
 We have cognitive biases throughout our lives, often not consciously aware of them. They are numerous, take a look at this  [chart](https://commons.wikimedia.org/wiki/File:Cognitive_Bias_Codex_-_180%2B_biases,_designed_by_John_Manoogian_III_(jm3).jpg#/media/File:Cognitive_Bias_Codex_-_180+_biases,_designed_by_John_Manoogian_III_(jm3).jpg)  on the Wikipedia  [Cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias)  page. Everyone's circumstances are different, so in the context of this guide let me give you some examples of my experience from my own circumstances:
 
-> ✳️ It was a mighty personal challenge dealing with the contents of my late parents house, about 20% of if it was either of sentimental value or useful, so that was okay, but it was the 80% I did not need was where I faced my challenges and cognitive biases. Although I gave a lot to local charity shops I was left with feelings of :
+> ✳️ It was a mighty personal challenge dealing with the contents of my late parents house, about 20% of it was either of sentimental value or useful, so that was okay, but it was the 80% I did not need was where I faced my challenges and cognitive biases. Although I gave a lot to local charity shops I was left with feelings of :
 > 
 > -   _“This is my parents stuff I’m giving away!”_
 > -   _“Will people respect this the way my parents did”_
