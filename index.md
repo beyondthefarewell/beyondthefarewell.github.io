@@ -225,6 +225,9 @@ It is likely thee will be a large number of items to find new home for, eg. clot
 	- The [Recycle Now](https://www.recyclenow.com/) website may provide you with more ideas and guidance.
 -   Your suggestions ?
 
+This reference may be of help: *[The Gentle Art of Swedish Death Cleaning](The%20Gentle%20Art%20of%20Swedish%20Death%20Cleaning)* a concept and lighthearted [book](https://www.simonandschuster.com/books/The-Gentle-Art-of-Swedish-Death-Cleaning/Margareta-Magnusson/9781501173240) and subsequent [TV series](https://u.co.uk/shows/the-gentle-art-of-swedish-death-cleaning/watch-online) about decluttering and clearing out unnecessary items. At the time of writing, the primary resources are the book and via online accounts.
+
+
 ### Hidden Items
 There may be important notes, paperwork, stash of cash, information and other items of importance hiding about the property:
 
