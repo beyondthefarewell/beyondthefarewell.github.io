@@ -354,7 +354,7 @@ These are some LLMs you may like to try:
 - [Microsoft Copilot](https://copilot.microsoft.com/)
 - [perplexity.ai](https://www.perplexity.ai/)
 - [venice.ai](https://venice.ai/chat) privacy oriented, keeps your discussions on your device.
-- [lmarena.ai](https://lmarena.ai/)  easy to use but has a more complicated looking interface allowing you to compare various models and optionally vote on your preference.
+- [chatbot-arena.web.app](https://chatbot-arena.web.app/) which is the same as [lmarena.ai](https://lmarena.ai/) but with an easier to use interface. This one gives answers from two different LLMs at the same time allowing you to compare various models, form a consensus and optionally vote on your preference.
 
 If you would like to learn more about interacting with language models refer to [promptingguide.ai](https://www.promptingguide.ai/).
 
