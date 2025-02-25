@@ -192,6 +192,7 @@ For me this was fairly straight forward.
  - Pensions: cancel private pensions, repay over payments.
  - Bank accounts: Keep a record of the amount in the accounts at the time of death, it may be needed for probate or other matters.
  - Pay outstanding bills, debts, HMRC taxes, settle any differences in amounts.
+ - [Trace old accounts and lost money](https://www.ageuk.org.uk/information-advice/money-legal/debt-savings/how-to-trace-lost-money/), this may include stocks and shares, bank and other financial accounts, pensions etc.
  - Any others?
 
 ### Investing inheritance - financial
