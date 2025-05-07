@@ -342,7 +342,7 @@ ___
 
 ### Generative AI Tools
 
-May assist you with matters you are dealing with related to this guide. They can be helpful and are easy to use despite their technical-sounding names such as Large Language Models ([LLMs](large%20language%20models)) or Generative Pre-trained Transformer ([GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)). Simply enter a question, known as a **prompt**, and press `enter`.
+May assist you with matters you are dealing with related to this guide. They can be helpful and are easy to use despite their technical-sounding names such as Large Language Models ([LLMs](large%20language%20models)) or Generative Pre-trained Transformer ([GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)). Simply enter a question, known as a **prompt**, and press `Enter`.
 
 **Generative AI** systems, emerged in 2023, they may be used for interactive 'discussion', however you should independently verify the responses and try asking the same question in a different way and on different platforms or language models. 
 
@@ -350,12 +350,13 @@ Here is an [example](./example-ChatGPT.md) of asking a question to a generative 
 
 These are some LLMs you may like to try:
 
+- [Le Chat](https://chat.mistral.ai/chat) Europe based.
+- [venice.ai](https://venice.ai/chat) privacy oriented, keeps your discussions on your device.
+- [perplexity.ai](https://www.perplexity.ai/)
+- [phind.com](https://www.phind.com/) has a *Think before answering* option in the *Advanced* settings.
 - [ChatGPT](https://chat.openai.com/)
 - [Google Gemini](https://gemini.google.com/app)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
-- [perplexity.ai](https://www.perplexity.ai/)
-- [Le Chat](https://chat.mistral.ai/chat) Europe based.
-- [venice.ai](https://venice.ai/chat) privacy oriented, keeps your discussions on your device.
 - [chatbot-arena.web.app](https://chatbot-arena.web.app/) which is the same as [lmarena.ai](https://lmarena.ai/) but with an easier to use interface. This one gives answers from two different LLMs at the same time allowing you to compare various models, form a consensus and optionally vote on your preference.
 - [QNA<sup>3</sup>](https://qna3.ai/search) specialised for cryptocurrencies, so perhaps relevant only to those dealing with digital assets.
 
