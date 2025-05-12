@@ -53,10 +53,10 @@ To make future matters easier these are some things to do, consider or arrange f
 Remember [Power of Attorney](https://www.gov.uk/power-of-attorney) is valid only whilst the person is alive.
 
 ### Medical donation
-Needs to be done weeks or months in advance of the loss of someone and may, or may not, need their permission if they have mental capacity to do so.
+Organ, tissue or body donation for medical or scientific research or for transplantation to save another person’s life. This process needs to be investigated and arranged well in advance of an end of life, the requirements for permission may depend on the individual’s mental capacity and the relevant local legal framework.
 
--   Donating organs or body to medical research - find out early, arrange well in advance of death.
--   [Brain bank](https://presearch.com/search?q=brain+bank) - search the internet, there may be several to choose from.
+-   The [NHS organ donation](https://www.organdonation.nhs.uk/) website is a reference for information and registration for the UK, otherwise search the internet for [elsewhere](https://search.brave.com/search?q=organ+donation) your region of the world.
+-   [Brain bank](https://presearch.com/search?q=brain+bank) donation - search the internet, there may be several to choose from.
 
 ### DNA Sample
 -   Obtain a DNA kit and provide a DNA sample for genealogy purposes – more than one service is better, but may be expensive.
