@@ -1,7 +1,8 @@
+# Beyond the farewell
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beyond the Farewell</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Keith White</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/beyondthefarewell/beyondthefarewell.github.io" rel="dct:source">https://github.com/beyondthefarewell/beyondthefarewell.github.io</a>.
 
 ___
-# Beyond the farewell
 
 A guide to the practical matters that need to be dealt with in the many months or years that follow someone's death, beyond the immediate concerns (e.g., death certificate, funeral, pets), the aspects discussed are also applicable to ourselves at any age and any stage of life.
 
