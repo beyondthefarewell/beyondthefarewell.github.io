@@ -1,7 +1,9 @@
-﻿
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beyond the Farewell</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Keith White</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/beyondthefarewell/beyondthefarewell.github.io" rel="dct:source">https://github.com/beyondthefarewell/beyondthefarewell.github.io</a>.
+
+___
 # Beyond the farewell
 
-Originally intended as a guide to the practical matters that need to be dealt with in the many months that follow someone's death, beyond the immediate concerns (e.g., death certificate, funeral, pets), the aspects discussed are also applicable to ourselves at any age and any stage of life.
+A guide to the practical matters that need to be dealt with in the many months or years that follow someone's death, beyond the immediate concerns (e.g., death certificate, funeral, pets), the aspects discussed are also applicable to ourselves at any age and any stage of life.
 
 The guide may also be helpful:
 
@@ -9,6 +11,7 @@ The guide may also be helpful:
 - Prior to any decline in mental or physical capacity of the individual.
 - During the end-of-life (EOL) stage of the individual.
 - As a resource or of general interest to stimulate thought and spark ideas on preparing for eventualities.
+
 
 ## Contents
 <ol start=0>
@@ -367,8 +370,5 @@ If you would like to learn more about interacting with language models refer to 
 - [Solihull Carers](https://solihullcarers.org/) and fellow carer members for their support.
 - [AgeUK](https://www.ageuk.org.uk/) for joint bank account advice and general support.
 - [Birmingham Linux User Group](https://www.birminghamlug.org.uk/), the website may be way out of date but the group is active. My thanks to them for a few technical suggestions.
-
-___
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beyond the Farewell</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Keith White</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/beyondthefarewell/beyondthefarewell.github.io" rel="dct:source">https://github.com/beyondthefarewell/beyondthefarewell.github.io</a>.
 
 ___
