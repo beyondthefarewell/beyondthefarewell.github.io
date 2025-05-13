@@ -179,6 +179,10 @@ Support from care worker visits, health visits, council and government support, 
 #### Need someone to look after YOU
 Depends upon your circumstances, health and age, but if you are the only one left living in the house, who is going to look out for you or look after you ?
 
+### Preserving memories?
+
+Before doing any sorting or changing the home of the deceased, consider photographing or making videos of the rooms and garden to help remember it as it was.
+
 ### The letter box or post box 📨 📬
 Letters or mail arriving in the post can be a help in identifying overlooked matters to deal with or of organisations to notify of the death.
 
