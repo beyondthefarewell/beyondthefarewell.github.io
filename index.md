@@ -347,6 +347,7 @@ ___
 ## Resources
 - [AgeUK](https://www.ageuk.org.uk/)
 - [Carers UK](https://www.carersuk.org/)
+- A planning ahead [checklist](https://annerobsontrust.org.uk/wp-content/uploads/2024/05/Planning-Ahead-My-Wishes-Checklist-v3.pdf), from the [Anne Robson Trust](https://annerobsontrust.org.uk/), that may help in advance of an end-of-life.
 
 ### Generative AI Tools
 
