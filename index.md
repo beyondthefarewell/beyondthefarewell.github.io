@@ -231,6 +231,7 @@ It is likely thee will be a large number of items to find new home for, eg. clot
 	- some charities will collect from your location if you cannot take items to them.
 -   Recycle, up-cycle or reuse what's left ?
 	- [Currys](https://www.currys.co.uk/) will [recycle electrical and electronic items](https://www.currys.co.uk/services/delivery-installation/recycling.html).
+	- [Community Wood Recycling](https://communitywoodrecycling.org.uk/).
 	- The [Recycle Now](https://www.recyclenow.com/) website may provide you with more ideas and guidance.
 -   Your suggestions ?
 
