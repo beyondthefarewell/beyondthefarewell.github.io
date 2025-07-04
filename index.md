@@ -367,7 +367,7 @@ These are some LLMs you may like to try:
 - [ChatGPT](https://chat.openai.com/)
 - [Google Gemini](https://gemini.google.com/app)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
-- [chatbot-arena.web.app](https://chatbot-arena.web.app/) which is the same as [lmarena.ai](https://lmarena.ai/) but with an easier to use interface. This one gives answers from two different LLMs at the same time allowing you to compare various models, form a consensus and optionally vote on your preference.
+- [lmarena.ai](https://lmarena.ai/) gives side by side answers from two different LLMs allowing you to compare the answers, form a consensus and optionally vote on your preference for the [leaderboard](https://lmarena.ai/leaderboard).
 - [QNA<sup>3</sup>](https://qna3.ai/search) specialised for cryptocurrencies, so perhaps relevant only to those dealing with digital assets.
 
 If you would like to learn more about interacting with language models refer to [promptingguide.ai](https://www.promptingguide.ai/).
