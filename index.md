@@ -361,14 +361,14 @@ Here is an [example](./example-ChatGPT.md) of asking a question to a generative 
 These are some LLMs you may like to try:
 
 - [Le Chat](https://chat.mistral.ai/chat) Europe based.
-- [venice.ai](https://venice.ai/chat) privacy oriented, keeps your discussions on your device.
-- [perplexity.ai](https://www.perplexity.ai/)
-- [phind.com](https://www.phind.com/) has a *Think before answering* option in the *Advanced* settings.
-- [ChatGPT](https://chat.openai.com/)
+- [Lumo](https://lumo.proton.me/) privacy respecting and open source.
+- [perplexity.ai](https://www.perplexity.ai/) good for researching a topic.
+- [arena.ai](https://arena.ai/) gives side by side answers from two different LLMs allowing you to compare the answers, form a consensus and optionally vote on your preference for the [leaderboard](https://arena.ai/leaderboard).
+- [QNA<sup>3</sup>](https://qna3.ai/search) specialised for cryptocurrencies, so perhaps relevant only to those dealing with digital assets.
+- [venice.ai](https://venice.ai/chat) privacy oriented and uncensored but may require registration to use it depending on where you are in the world.
+- [OpenAI ChatGPT](https://chatgpt.com/)
 - [Google Gemini](https://gemini.google.com/app)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
-- [lmarena.ai](https://lmarena.ai/) gives side by side answers from two different LLMs allowing you to compare the answers, form a consensus and optionally vote on your preference for the [leaderboard](https://lmarena.ai/leaderboard).
-- [QNA<sup>3</sup>](https://qna3.ai/search) specialised for cryptocurrencies, so perhaps relevant only to those dealing with digital assets.
 
 If you would like to learn more about interacting with language models refer to [promptingguide.ai](https://www.promptingguide.ai/).
 
