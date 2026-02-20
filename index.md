@@ -352,9 +352,9 @@ ___
 
 ### Generative AI Tools
 
-May assist you with matters you are dealing with related to this guide. They can be helpful and are easy to use despite their technical-sounding names such as Large Language Models ([LLMs](large%20language%20models)) or Generative Pre-trained Transformer ([GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)). Simply enter a question, known as a **prompt**, and press `Enter`.
+May assist you with matters you are dealing with related to this guide. They can be helpful and are easy to use despite their technical-sounding names such as Large Language Models ([LLMs](large%20language%20models)), Generative Pre-trained Transformer ([GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)) and Artificial Intelligence ([AI](https://en.wikipedia.org/wiki/Artificial_intelligence)). Simply enter a question, known as a **prompt**, and press `Enter`.
 
-**Generative AI** systems, emerged in 2023, they may be used for interactive 'discussion', however you should independently verify the responses and try asking the same question in a different way and on different platforms or language models. 
+**Generative AI** systems emerged to mainstream use in 2023. You can use them for interactive 'discussion', however you should independently verify the responses and try asking the same question in a different way and on different platforms or language models. 
 
 Here is an [example](./example-ChatGPT.md) of asking a question to a generative AI system about probate.
 
