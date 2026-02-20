@@ -1,15 +1,14 @@
-## Generative AI tools
+## Generative AI tools example
 
-Here is an example of asking [ChatGPT-3.5](https://chat.openai.com/), from  [Open AI](https://openai.com/), circa January 2023, for help understanding probate.
+Here is an example of asking [ChatGPT-3.5](https://chatgpt.com/), from  [Open AI](https://openai.com/), circa January 2023, for help understanding probate.
 
-The same question could also be asked to [Google BARD](https://bard.google.com/) or [Bing Chat](https://chat.bing.com).  
-An account is needed on ChatGPT or Bard to interact with them.
+The same question could also be asked to any of the other large language models, LLMs, mentioned in the Resources section.
 
 ___
-### Question
+### Question:
 After someone has died what does obtaining probate mean?
 
-### Response from ChatGPT
+### Response from ChatGPT:
 When someone dies, their assets and property are passed on to their beneficiaries through a legal process called probate. Probate is the court-supervised process of settling the estate of a deceased person. The purpose of probate is to ensure that the deceased person's assets are distributed according to their wishes as outlined in their will, or according to state laws if they did not have a will.
 
 Obtaining probate means that the executor or administrator of the deceased person's estate applies to the court for a document called a "grant of probate." This document gives the executor or administrator the legal authority to manage the deceased person's assets and distribute them to the beneficiaries.
